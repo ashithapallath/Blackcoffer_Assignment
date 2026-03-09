@@ -215,18 +215,6 @@ python analysis.py
 Output.xlsx
 ```
 
----
-
-# Key Features
-
-✔ Robust HTML parsing
-✔ Custom stopword integration
-✔ Master dictionary based sentiment analysis
-✔ Readability metrics computation
-✔ Automatic missing file detection
-✔ Clean output format for evaluation
-
----
 
 # Notes
 
