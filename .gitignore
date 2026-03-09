@@ -1,0 +1,8 @@
+chrome-win64/
+Extracted_Articles/
+saved_html/
+
+__pycache__/
+.ipynb_checkpoints/
+
+*.log
